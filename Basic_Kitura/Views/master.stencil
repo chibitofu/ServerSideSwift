@@ -1,0 +1,7 @@
+<html>
+<body>
+{% block title %}{% endblock %}
+{% block body %}{% endblock %}
+{% include "footer.stencil" %}
+</body>
+</html>
